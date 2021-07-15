@@ -7,5 +7,6 @@ public class HellowGie {
     public static void main(String[] args) {
         System.out.println("Hellow git");
         System.out.println("更新一");
+        System.out.println("创建分支");
     }
 }
